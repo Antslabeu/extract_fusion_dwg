@@ -32,17 +32,11 @@ Fusion Drawing files already contain the data needed to recover technical drawin
 
 This tool provides a simple way to browse those drawings and extract the original DWG content stored locally on your machine.
 
----
+Autodesk Fusion 360 stores technical drawings locally as `.f2d` files.
 
-## How It Works
+Fusion Drawing Recovery allows you to browse those drawings, preview sheet thumbnails and recover the embedded DWG files without opening Fusion 360.
 
-Fusion Drawing files (.f2d) are standard ZIP archives.
-
-A typical archive contains:
-
-text Drawing.f2d │ ├── SheetThumbnails/ │   └── D3_large.png │ └── Dwg.BlobParts/     └── ExtFile.xxxxx.dwg 
-
-Fusion Drawing Recovery reads these archives directly and extracts the embedded DWG content.
+This makes it easy to access archived drawings, recover lost exports and work with drawings stored locally on your machine.
 
 ---
 
