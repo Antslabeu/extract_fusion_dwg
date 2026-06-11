@@ -1,6 +1,11 @@
 # Fusion Drawing Recovery
 Fusion Drawing files are standard ZIP archives.
 
+Recover original DWG drawings directly from Autodesk Fusion 360 .f2d files.
+Browse local drawings, preview sheets and extract DWG files without opening Fusion 360.
+
+
+
 So.. This app recovers DWG drawings directly from Autodesk Fusion 360 .f2d files.
 
 Fusion Drawing Recovery is a lightweight desktop utility that scans local Fusion 360 storage, previews technical drawings, and extracts the original DWG files embedded inside Fusion Drawing archives.
