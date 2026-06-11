@@ -60,12 +60,6 @@ Or launch directly from VS Code using F5.
 
 ---
 
-## Project Structure
-
-text fusion_drawing_recovery/  ├── assents/ │   └── main.png  ├── core/ ├── ui/ ├── output/  ├── main.py ├── requirements.txt └── README.md 
-
----
-
 ## Current Functionality
 
 - Drawing discovery
